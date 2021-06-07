@@ -1,0 +1,13 @@
+.content {
+  position: relative;
+
+}
+
+.content > div {
+  position: absolute;
+  text-transform: uppercase;
+  touch-action: none;
+
+  height: 40px;
+  width: 40px;
+}
